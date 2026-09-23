@@ -6,7 +6,7 @@ void swap(int *p1, int *p2) {
 int main(){
     int a;
     int b;
-    printf("请输入两个整数：");
+    printf("杈撳叆涓や釜鏁存暟");
     scanf("%d %d", &a, &b);
     swap(&a, &b);
     printf("%d, %d\n", a, b);
